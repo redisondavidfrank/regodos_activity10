@@ -40,6 +40,6 @@ David Frank Edison
 ![david](https://user-images.githubusercontent.com/112542672/232826154-8639d525-d8d1-4061-928a-1617d5f82fa1.jpg)
 
 
-Arman Vicente
+Armann Vicente
 
 ![arman](https://user-images.githubusercontent.com/112542672/232826217-39267908-a02b-47b4-b8ac-0df218b3881b.jpg)
