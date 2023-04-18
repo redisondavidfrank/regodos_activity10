@@ -33,14 +33,17 @@ Preparation of database remotely using workbench or phpmyadmin
 
 David Frank Edison Regodos
 
-![david](https://user-images.githubusercontent.com/112542672/232826154-8639d525-d8d1-4061-928a-1617d5f82fa1.jpg)
+![david](https://user-images.githubusercontent.com/121031464/232836678-eee50f1d-c91e-4e81-a22e-32fb2769cc6d.png)
+
 
 
 Armann Vicente
 
-![arman](https://user-images.githubusercontent.com/112542672/232826217-39267908-a02b-47b4-b8ac-0df218b3881b.jpg)
+![arman](https://user-images.githubusercontent.com/121031464/232836730-fa1ae12a-1e1d-43e0-a636-674363a8065a.png)
+
 
 
 Elaine Mae llacuna
 
-![elaine](https://user-images.githubusercontent.com/112542672/232825930-3078588c-2e40-496f-a6d8-bd23ab675f4f.jpg)
+![elaine](https://user-images.githubusercontent.com/121031464/232836559-a3140af2-f8e4-498a-8e54-8fbe4d1d9f72.png)
+
