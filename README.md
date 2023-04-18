@@ -37,13 +37,13 @@ David Frank Edison Regodos
 
 
 
-Armann Vicente
+Arman Vicente
 
 ![arman](https://user-images.githubusercontent.com/121031464/232836730-fa1ae12a-1e1d-43e0-a636-674363a8065a.png)
 
 
 
-Elaine Mae llacuna
+Elaine Mae Llacuna
 
 ![elaine](https://user-images.githubusercontent.com/121031464/232836559-a3140af2-f8e4-498a-8e54-8fbe4d1d9f72.png)
 
